@@ -7,7 +7,7 @@ export default function Header() {
         <div className="h-10 w-10 rounded-full bg-green-600 flex items-center justify-center text-white font-bold">S</div>
         <div>
           <h1 className="text-lg font-semibold text-gray-800">Servicio Nacional de Aprendizaje</h1>
-          <p className="text-sm text-gray-500">CGMLTI · Bogotá</p>
+          <p className="text-sm text-gray-500">CGMLTI · BOGOTA</p>
         </div>
       </div>
 
